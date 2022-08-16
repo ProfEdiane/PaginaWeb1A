@@ -1,3 +1,13 @@
 body {
-    background-color:aquamarine;
+    background-color: aquamarine;
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(97, 5, 5);
+}
+p {
+    text-align: justify;
+    font-size: 20px;
+    color: rgb(104, 5, 5);
 }
